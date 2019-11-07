@@ -11,4 +11,4 @@ Further improvements for future:
 multithreading for IO
 etc.
 
-P.S. plz don't yell at me for my PEP8 formatting... pylint is very strict lulOA
+P.S. plz don't yell at me for my PEP8 formatting... pylint is very strict lul
