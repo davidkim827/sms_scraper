@@ -10,6 +10,8 @@ This script was created to collect data on sms messages to hopefully capture som
 
 The script has been hardcoded for those specific websites and for the number of pages to iterate through (at least for the first website of the first 2000 pages). This creates roughly around 66,000 datapoints and the script returns a csv file with all those datapoints. Interesting thing to note is that the second website (freephonenum) gives you a link to the history of messages from the source phone number (of the possible spam or ham or w.e.). I have therefore placed the URL as the last element of the datapoints where it exists. The first website (receivesms) doesn't have that, and therefore as any good data scientist would (lul i'm not a DS by any means) I put in a -1!!!! So proud (: Enjoy the script!
 
+Also have placed what I have collected for 11/2019
+
 Further improvements for future:
 multithreading for IO
 etc.
