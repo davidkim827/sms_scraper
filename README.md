@@ -1,6 +1,6 @@
 # sms_scraper
 
-This script was created to collect data on sms messages to hopefully capture some spam data. The script was designed with 2 specific websites in mind:
+This script was created to collect data on sms messages to hopefully capture some spam data. The script was designed with 4 specific websites in mind:
 
 1. https://receive-sms.com/
 2. https://freephonenum.com/us
