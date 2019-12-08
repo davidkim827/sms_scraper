@@ -17,3 +17,10 @@ multithreading for IO
 etc.
 
 P.S. plz don't yell at me for my PEP8 formatting... black did it all for me lul
+
+Dataset explanation:
+
+src_num = source phone number (of the potential spam or whoever sent the text message)
+dst_num = phone number sourced from the websites
+msg = message
+url_for_history_for_number = links from freephonenum.com
